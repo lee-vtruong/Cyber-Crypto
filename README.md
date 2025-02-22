@@ -2,6 +2,9 @@
 
 This project is a website for a fictional cryptocurrency market exchange platform called "Cyber Crypto". It showcases the platform's services, user testimonials, and contact information.
 
+## Live demo:
+[Truy cập tại đây](https://cyber-crypto-beige.vercel.app/)
+
 ## Table of Contents
 
 - [Cyber Crypto - Cryptocurrency Market Exchange](#cyber-crypto---cryptocurrency-market-exchange)
